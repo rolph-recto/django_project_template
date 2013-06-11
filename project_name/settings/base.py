@@ -40,10 +40,6 @@ ADMINS = (
 MANAGERS = ADMINS
 ########## END MANAGER CONFIGURATION
 
-########## USER MODEL CONFIGURATION
-AUTH_USER_MODEL = "resource_lib.ResourceLibUser"
-########## END USER MODEL CONFIGURATION
-
 
 ########## DATABASE CONFIGURATION
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#databases
