@@ -1,0 +1,4 @@
+# Test dependencies go here.
+-r base.txt
+
+psycopg2==2.5
